@@ -15,6 +15,23 @@ Jeg er veldig lærevillig og kan tilpasse meg alle mulige stillinger i utvikling
 
 💬 Dersom du har lyst til å ta kontakt med meg er jeg tilgjengelig på arminguber@gmail.com eller på [LinkedIn](https://www.linkedin.com/in/armin-guber-52655918a/)
 
+###  Hi and welcome 👋
+
+My name is Armin Guber and I am programming student at Høyskolen Kristiania in Oslo.
+
+The main goal with this profile is to show some of the things I have learned during my education
+
+I have been programing in 15 years.
+I have always been fascinated by computers. And I have experience both in computer repair and programming.
+I have experience with many programming languages and tools related to those. My experience includes C, C++, Java, Springboot, React, C#, Javascript, PHP, HTML, CSS, Matlab, SQL, and many others.
+
+I thrive in social situations and I am a cooperative person. I see these attributes as something that is key for the programer.
+
+I like to share my knowledge and I have tutored in mathematics and programming.
+
+I am willing to learn and kan adapt my self to all jobs in the programming world. Both front-end and back-end programming er interesting and challenging in their own way.
+
+💬 If you would like to contact me I am available at  arminguber@gmail.com or at [LinkedIn](https://www.linkedin.com/in/armin-guber-52655918a/)
 <!--
 **guberArmin/guberArmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
