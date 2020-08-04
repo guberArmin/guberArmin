@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi og velkomen 👋
+
+Jeg heter Armin Guber og er programmering student ved Høyskolen Kristiania.
+
+Jeg drevet med utvikling for 15 år siden.
+Datamaskiner har alltid fascinert meg og jeg har jobbet både med reparasjon og utvikling av programmer.
+Jeg har erfaring med mange programmeringsspråk og verktøy som er tett knyttet til de. Noe av det jeg har jobbet med; C, C++, Java, Springboot, React, C#, Javascript, PHP, HTML, CSS, Matlab, SQL og mange andre.
+
+Jeg er en sosial person som er veldig samarbeidsvillig, noe jeg anser som grunnleggende for en programmerer.
+Jeg er opptatt med å spre min kunnskap videre og har undervist i matematikk og programmering.
+
+Jeg er veldig lærevillig og kan tilpasse meg alle mulige stillinger i utviklingsverden. Jeg kunne tenke meg å jobbe både front-end og back-end fordi jeg synes at begge områder er utfordrende og spennende.
+
+💬 Dersom du har lyst til å ta kontakt med meg er jeg tilgjengelig på arminguber@gmail.com eller på [LinkedIn](https://www.linkedin.com/in/armin-guber-52655918a/)
 
 <!--
 **guberArmin/guberArmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
