@@ -2,6 +2,8 @@
 
 Jeg heter Armin Guber og er programmering student ved Høyskolen Kristiania.
 
+Hoved formålet med dette profilet er å vise noen av mine kunnskaper som jeg har fått gjennom utdanningen min. 
+
 Jeg drevet med utvikling for 15 år siden.
 Datamaskiner har alltid fascinert meg og jeg har jobbet både med reparasjon og utvikling av programmer.
 Jeg har erfaring med mange programmeringsspråk og verktøy som er tett knyttet til de. Noe av det jeg har jobbet med; C, C++, Java, Springboot, React, C#, Javascript, PHP, HTML, CSS, Matlab, SQL og mange andre.
