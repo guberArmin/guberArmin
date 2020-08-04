@@ -15,6 +15,10 @@ Jeg er veldig lærevillig og kan tilpasse meg alle mulige stillinger i utvikling
 
 💬 Dersom du har lyst til å ta kontakt med meg er jeg tilgjengelig på arminguber@gmail.com eller på [LinkedIn](https://www.linkedin.com/in/armin-guber-52655918a/)
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ###  Hi and welcome 👋
 
 My name is Armin Guber and I am programming student at Høyskolen Kristiania in Oslo.
